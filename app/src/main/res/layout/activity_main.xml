@@ -22,10 +22,10 @@
     </android.support.design.widget.AppBarLayout>
 
     <com.verticalseekbar.VerticalSeekBar
+        android:layout_width="25dp"
+        android:layout_height="match_parent"
         android:splitTrack="false"
         android:thumb="@android:color/transparent"
-        app:customThumb="@drawable/thumb"
-        android:layout_width="25dp"
-        android:layout_height="match_parent" />
+        app:customThumb="@drawable/thumb" />
 
 </android.support.design.widget.CoordinatorLayout>
