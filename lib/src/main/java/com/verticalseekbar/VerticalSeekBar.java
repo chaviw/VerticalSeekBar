@@ -44,6 +44,7 @@ public class VerticalSeekBar extends SeekBar {
         mMirrorForRtl = attributes.getBoolean(0, false);
 
         customAttr.recycle();
+        attributes.recycle();
     }
 
     protected void onSizeChanged(int w, int h, int oldw, int oldh) {
