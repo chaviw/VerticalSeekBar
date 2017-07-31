@@ -1,6 +1,6 @@
 # VerticalSeekBar
 
-This is a custom vertical seek bar that works with Marshmallow operating system
+This is a custom vertical seek bar that works with Marshmallow operating system <br/>
 See http://stackoverflow.com/questions/33112277/android-6-0-marshmallow-stops-showing-vertical-seekbar-thumb
 
 Usage: 
